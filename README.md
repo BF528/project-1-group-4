@@ -1,12 +1,17 @@
-# Project Description
-hello
-hello again
-A brief description of what this repository is for and what it contains
+## Project Description
 
-# Contributors
+Project 1 provides analysis of a public microarray dataset. We reproduce results from comparisons of C3 and C4 tumor subtypes from Marisa et al. (2013). We normalized, filtered, and analyzed the data from 135 samples to discover relationships among them.
 
-Konrad Thorner, Aishwarya Deengar, Jia Liu, Morgan Rozman
+## Contributors
 
-# Repository Contents
+Names: Konrad Thorner, Aishwarya Deengar, Jia Liu, Morgan Rozman
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
+Github: kthorner, AishwaryaD1, jialiu0103, morganroz
+
+Email: , , , mrozman@bu.edu
+ 
+## Repository Contents
+
+# project1_jia.R
+
+Please add a short description of what your code does!
