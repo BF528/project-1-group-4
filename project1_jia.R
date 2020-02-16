@@ -89,4 +89,9 @@ scaled_data=t(transed_scale)
 prcomp_data=prcomp(scaled_data,scale=F,center = F)
 prcomp_data$rotation
 pca_plot=plot(prcomp_data$rotation[,1:2])
+
+#here threshold 1 is used to concentrate the scaled_data
+d2=scaled_data[-which(scaled_data<1),]
+prcomp_d2=prcomp(d2,scale=F,center = F)
+plot(prcomp_d2$rotation[,1:2])
 ```
