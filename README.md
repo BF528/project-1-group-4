@@ -6,14 +6,12 @@ Project 1 provides analysis of a public microarray dataset. We reproduce results
 
 <<<<<<< HEAD
 List contributor names and github user names, or email addresses if desired
-konrad
 =======
 Names: Konrad Thorner, Aishwarya Deengar, Jia Liu, Morgan Rozman
 
 Github: kthorner, AishwaryaD1, jialiu0103, morganroz
->>>>>>> d672b00446e21bbb89581c9ca92746294835bad0
 
-Email: , , , mrozman@bu.edu
+Email: kthorner@bu.edu, , , mrozman@bu.edu
  
 # Repository Contents
 
