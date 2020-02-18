@@ -17,7 +17,7 @@ Email: kthorner@bu.edu, , , mrozman@bu.edu
 
 ### project1_jia.R
 
-Please add a short description of what your code does!
+Normalization of microarray data. Compute standard quality control metrics on normalized data and visualize the distribution of samples using Principal Component Analysis.
 
 ### konrad_analyst.R
 
