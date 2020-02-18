@@ -1,3 +1,5 @@
+library("gplots")
+
 check_expression <- function(row) {           
 	samples <- 0
 	for (col in 1:length(row)) {
