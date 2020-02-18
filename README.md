@@ -20,3 +20,7 @@ Email: , , , mrozman@bu.edu
 ### project1_jia.R
 
 Please add a short description of what your code does!
+
+### konrad_anaylst.R
+
+Filters the gene expression matrix, performs hierarchial clustering, constructs a heatmap, and find differential gene expression between clusters with t-tests.
