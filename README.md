@@ -11,7 +11,7 @@ Names: Konrad Thorner, Aishwarya Deengar, Jia Liu, Morgan Rozman
 
 Github: kthorner, AishwaryaD1, jialiu0103, morganroz
 
-Email: kthorner@bu.edu, , , mrozman@bu.edu
+Email: kthorner@bu.edu, , jiliu@bu.edu, mrozman@bu.edu
  
 # Repository Contents
 
