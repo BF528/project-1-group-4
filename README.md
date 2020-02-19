@@ -22,3 +22,6 @@ Normalization of microarray data. Compute standard quality control metrics on no
 ### konrad_analyst.R
 
 Filters the gene expression matrix, performs hierarchial clustering, constructs a heatmap, and find differential gene expression between clusters with t-tests.
+
+### project1_aishwarya.Rmd
+Scripts for mapping the probeset IDs to gene symbols, selecting the top 1000 up- and down-regulated genes and reporting the top 10 of these up- and down-regulated genes, fisher test to compute hypergeometric statistics and p-values comparing overlap for each gene set and each gene list, adjust the p-values for multiple hypotheses using the Benjamini-Hochberg (FDR) procedure and append this adjusted p-value column to the data frame and sorting the genesets according to their p values and reporting the table.
